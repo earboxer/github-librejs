@@ -33,5 +33,8 @@
     jQuery('button.js-comment-hide-minimize-form').click(function(e) {
         this.closest('.js-minimize-comment').classList.add('d-none');
     });
+    jQuery('button.js-dismiss-multi-line-suggestion-onboarding-notice').click(function(e) {
+      this.closest('.js-multi-line-suggestion-onboarding-notice').classList.add('d-none');
+    });
 })();
 // @license-end
