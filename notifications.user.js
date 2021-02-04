@@ -2,6 +2,7 @@
 // @name        Notifications - github.com
 // @namespace   Violentmonkey Scripts
 // @match       https://github.com/notifications/beta/archive
+// @match       https://github.com/notifications/beta/unsubscribe
 // @grant       none
 // @version     1.0
 // @author      Zach DeCook
